@@ -1,0 +1,4 @@
+hello, here's another random file. I don't really believe that
+my terminal commands and git and homebrew and everything works. Well I guess
+it does but i'm kinda in disbelief because I don't understand it at all. But
+this is super cool and really an upgrade from introcs2. thanks for listening!
